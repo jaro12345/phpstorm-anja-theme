@@ -1,3 +1,5 @@
 # phpstorm-anja-theme
 
-for Windows users: Put file Anja-theme.icls to ~.PhpStorm2016.1\config\colors
+Put file Anja-theme.icls to:
+for Windows users: ~.PhpStorm2016.1\config\colors
+for Ubuntu: ~/.PhpStorm2016.2/config/colors
